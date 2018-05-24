@@ -6,7 +6,7 @@ A medida que se ha ido mejorando la tecnología, se han desarrollado máquinas e
 La palabra robot se define como una máquina controlada por un ordenador y programada para moverse, manipular objetos y realizar trabajos a la vez que interacciona con su entorno. Los robots son capaces de realizar tareas repetitivas de forma más rápida, barata y precisa que los seres humanos. El término procede de la palabra checa robota, que significa 'trabajo obligatorio'. Desde entonces se ha empleado la palabra robot para referirse a una máquina que realiza trabajos para ayudar a las personas para efectuar tareas difíciles o de riesgo para los humanos. Mientras tanto la robótica se define como la rama  de la inteligencia artificial que estudia los sistemas automáticos capaces de establecer una interacción directa con el mundo físico.
 Los brazos robóticos han tratado de asemejar el movimiento del brazo humano, por lo que se han construido en base a las articulaciones de éstos. Las articulaciones de un brazo robótico suelen moverse mediante motores eléctricos, o dispositivos neumáticos. En la mayoría de los robots, la pinza se mueve de una posición a otra cambiando su orientación. Una computadora calcula los ángulos de las articulaciones necesarios para llevar la pinza a la posición deseada, este es un proceso conocido como cinemática inversa.
  
-BRAZO ROBÓTICO DE 4 EJES
+## BRAZO ROBÓTICO DE 4 EJES
 
 Objetivo.
 ---------
