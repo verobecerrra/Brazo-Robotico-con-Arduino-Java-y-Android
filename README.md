@@ -1,4 +1,4 @@
-Brazo Robotico con Arduino Java y Android
+#Brazo Robotico con Arduino Java y Android
 
 INTRODUCCIÓN
 A medida que se ha ido mejorando la tecnología, se han desarrollado máquinas especializadas para tareas como poner tapones a las botellas o verter caucho líquido en moldes para neumáticos. Sin embargo, ninguna de estas máquinas tenía la versatilidad del brazo humano, y no podían alcanzar objetos alejados y colocarlos en la posición deseada. La mayoría de los robots existentes en nuestros días son aquellos que son utilizados en la industria, llamados robots industriales, los cuales están construidos por uno o dos brazos. 
