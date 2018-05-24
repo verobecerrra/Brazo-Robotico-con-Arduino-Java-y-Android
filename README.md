@@ -21,13 +21,13 @@ Características principales:
 
 IMAGENES
 
-1. El robot se debe controlar en modo "REMOTO" (a través de un programa en java por medio del puerto serial).
+2. El robot se debe controlar en modo "REMOTO" (a través de un programa en java por medio del puerto serial).
 
 IMAGENES
 
-1. La información para el usuario se podrá proporcionar a través de LEDS de colores, una pantalla LCD de 2 líneas y/ó sonido (un zumbador).
+3. La información para el usuario se podrá proporcionar a través de LEDS de colores, una pantalla LCD de 2 líneas y/ó sonido (un zumbador).
 
 
 IMAGENES
 
-1. Los brazos robóticos se pueden clasificar de acuerdo con el número de "articulaciones" o "Grados de libertad" (DOF) que tienen.
+4. Los brazos robóticos se pueden clasificar de acuerdo con el número de "articulaciones" o "Grados de libertad" (DOF) que tienen.
