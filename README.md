@@ -19,7 +19,7 @@ El robot debe tener dos funciones básicas:
 Características principales:
 1. Proyecto se usa para controlar robots con 4 DOF ("Grados de libertad").
 
-![Imagen_Arduino](imagen.png "1brazo")
+![Brazo](/images/1brazo.png "brazo")
 
 2. El robot se debe controlar en modo "REMOTO" (a través de un programa en java por medio del puerto serial).
 
