@@ -32,4 +32,20 @@ Características principales:
 
 4. La "Base", o "Cintura", por lo general puede girar el brazo 180o o 360o, dependiendo del tipo de Servo utilizado (aquí en este proyecto, se debe utilizar un motor a pasos para girar 360o)
 
-![Motor](/images/4motor.jpg "motor")   ![CodMot](/images/4codmot.png "codmod")
+![Motor](/images/4motor.jpg "motor")   ![CodMot](/images/4codmot.png "codmot")
+
+5. El "Hombro" es el responsable de "levantar o bajar" el brazo verticalmente
+
+![Servo1](/images/5serv1.jpg "serv1")   ![CodServo1](/images/5codserv1.png "codserv1")
+
+6. El "codo" hará que el brazo "avance o retroceda".
+
+![Servo2](/images/5serv2.jpg "serv2")   ![CodServo2](/images/5codserv2.png "codserv2")
+
+7. La "Garra" o "Pinza" funciona abriendo o cerrándose para "agarrar cosas".
+
+![Servo3](/images/5serv3.jpg "serv3")   ![CodServo3](/images/5codserv3.png "codserv3")
+
+8. Resultado. Brazo robótico 4 DOF
+
+![BrazoRobotico](/images/BR.png "brazorobotico")
