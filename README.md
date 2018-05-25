@@ -48,4 +48,4 @@ Características principales:
 
 8. Resultado. Brazo robótico 4 DOF
 
-![BrazoRobotico](/images/BR.png "brazorobotico")
+![BrazoRobotico](/images/BR.jpg "brazorobotico")
