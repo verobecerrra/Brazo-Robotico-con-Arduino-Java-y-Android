@@ -32,4 +32,4 @@ Características principales:
 
 4. La "Base", o "Cintura", por lo general puede girar el brazo 180o o 360o, dependiendo del tipo de Servo utilizado (aquí en este proyecto, se debe utilizar un motor a pasos para girar 360o)
 
-![Motor](/images/4motor.jpg "motor")   ![CodMot](/images/4codmot.png "codmod")
+
