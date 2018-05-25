@@ -28,6 +28,6 @@ Características principales:
 3. La información para el usuario se podrá proporcionar a través de LEDS de colores, una pantalla LCD de 2 líneas y/ó sonido (un zumbador).
 
 
-![Leds](/images/3Leds.jpg "leds")
+![Leds](/images/3leds.jpg "leds")
 
 4. Los brazos robóticos se pueden clasificar de acuerdo con el número de "articulaciones" o "Grados de libertad" (DOF) que tienen.
